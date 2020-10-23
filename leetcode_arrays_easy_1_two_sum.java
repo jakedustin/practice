@@ -1,4 +1,4 @@
-class Scratch {
+class leetcode_arrays_easy_1_two_sum {
     public static void main(String[] args) {
         int[] nums = new int[] {2,5,5,11};
         System.out.println(twoSum(nums,10).toString());
